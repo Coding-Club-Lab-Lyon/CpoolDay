@@ -1,3 +1,4 @@
+coucou je sais toujours pas quoi dire x)
 void print_char(char c);
 
 void my_print_ascii(void)
